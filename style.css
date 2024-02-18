@@ -1,0 +1,43 @@
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(202, 180, 54);
+    text-align: center;
+}
+header {
+    font-size: 20px;
+    
+}
+
+main{
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 15px;
+    background-color: brown;
+    text-align: center;
+}
+
+main h4 {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+a{
+    color: aliceblue;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+
+td, th{
+    border: 1px solid black;
+    padding: 5px;
+}
